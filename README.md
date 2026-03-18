@@ -63,7 +63,7 @@ This is my **professional account**. My earlier experiments and student projects
 ## Let's Connect
 
 <div align="center">
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-aquino--portfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aquino-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-caquino.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caquino.dev@gmail.com)
 [![Student Account](https://img.shields.io/badge/Student_Account-%40Christian0130-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Christian0130)
 
