@@ -13,7 +13,7 @@
 
 <br/>
 
-`Building in public` &nbsp;·&nbsp; `Open to opportunities` &nbsp;·&nbsp; `Quezon City, PH`
+`Building in public` &nbsp;·&nbsp; `Open to opportunities` &nbsp;·&nbsp; `Cavite, PH`
 
 </div>
 
@@ -56,6 +56,7 @@ This is my **professional account**. My earlier experiments and student projects
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
